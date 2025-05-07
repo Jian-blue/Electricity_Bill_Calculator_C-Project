@@ -1,3 +1,5 @@
+![project_image](https://github.com/user-attachments/assets/fb9352d0-263e-47aa-8440-43b3a042ee3f)
+
 # Electricity Bill Calculator (C Project)
 
 This project was developed in my **first semester** to simulate an electricity billing system inspired by Japan’s energy regulation model. The calculator considers region, institution type, energy slabs, and government-imposed surcharges/rebates to compute the final bill.
@@ -46,6 +48,12 @@ This project was developed in my **first semester** to simulate an electricity b
 
 - **Language:** C
 - **Platform:** Command Line (CLI)
+
+## Author  
+
+**Shafayat Yeamin Jian**  
+B.Sc in Computer Science and Engineering  
+This project is free to use for anyone — feel free to use it  
 
 ---
 
