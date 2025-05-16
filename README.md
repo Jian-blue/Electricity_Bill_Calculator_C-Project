@@ -1,8 +1,8 @@
-![project_image](https://github.com/user-attachments/assets/fb9352d0-263e-47aa-8440-43b3a042ee3f)
+![Electricity Bill Calculator Img](https://github.com/user-attachments/assets/feff6012-bcd8-4cf3-a488-074a05f350de)
 
 # Electricity Bill Calculator (C Project)
 
-This project was developed in my **first semester** to simulate an electricity billing system inspired by Japan’s energy regulation model. The calculator considers region, institution type, energy slabs, and government-imposed surcharges/rebates to compute the final bill.
+This project was developed in my **first semester** to simulate an electricity billing system inspired by Japan’s energy regulation model. The calculator considers region, institution type, energy slabs, and government-imposed surcharges/rebates to compute the final bill. For more details, read the document attached [here](https://github.com/Jian-blue/Electricity_Bill_Calculator_C-Project/blob/main/Documentation.docx).
 
 ## Features
 
